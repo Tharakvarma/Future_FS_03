@@ -1,5 +1,9 @@
 # Task 3 — Indian Coffee House Bengaluru
 
+## Live demo
+
+**[Open the live website →](https://tharakvarma.github.io/Future_FS_03/)**
+
 A conversion-focused website concept for the real Indian Coffee House brand, presented for a Bengaluru location.
 
 ## Business problem solved
@@ -13,8 +17,6 @@ Open `index.html` directly in a browser, or run a local static server from this 
 ```bash
 npx serve .
 ```
-
-Live website: https://tharakvarma.github.io/Future_FS_03/
 
 ## Pitch
 
