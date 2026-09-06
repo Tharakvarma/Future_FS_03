@@ -14,6 +14,8 @@ Open `index.html` directly in a browser, or run a local static server from this 
 npx serve .
 ```
 
+Live website: https://tharakvarma.github.io/Future_FS_03/
+
 ## Pitch
 
 “This website gives Indian Coffee House a warmer, more discoverable digital front door. Clear menu cards help new customers decide faster, the location and hours remove visit friction, and the reservation/WhatsApp actions turn interest into enquiries. It is designed to feel as welcoming as the café itself while making the business easier to choose.”
